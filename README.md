@@ -25,6 +25,12 @@ mode only the first draw of the lot is considered and the prize is five times gr
 
 Finally it is also possible to bet on two or three animals, or even 2 double digit numbers.
 
+## Preview
+
+The best way to interact with this notebook is to clone the repo and play around with it locally.
+Check out **[this link](https://nbviewer.jupyter.org/github/RoJac88/metaclass-animal-game/blob/master/meta-animals.ipynb)** for a well
+formated preview.
+
 
 ## What is this thing anyway?
 
